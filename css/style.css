@@ -480,6 +480,11 @@ p {
     font font-weight: bold;
     font-size: 90px;
     }
+
+    #logo{
+        width: 250px;
+        height: 250px;
+    }
 }
 
 @media(max-width:800px) {
@@ -498,6 +503,10 @@ p {
     font-family: 'Nova Square', cursive;
     font font-weight: bold;
     font-size: 80px;
+    }
+    #logo{
+    width: 250px;
+    height: 250px;
     }
 }
 
@@ -679,7 +688,11 @@ p {
     #comingsoon{
     font-family: 'Nova Square', cursive;
     font font-weight: bold;
-    font-size: 100px;
+    font-size: 90px;
+    }
+    #logo{
+    width: 250px;
+    height: 250px;
     }
 }
 
@@ -693,6 +706,11 @@ p {
     font-family: 'Nova Square', cursive;
     font font-weight: bold;
     font-size: 100px;
+    }
+
+        #logo{
+    width: 250px;
+    height: 250px;
     }
 }
 
@@ -711,7 +729,7 @@ p {
     #comingsoon{
     font-family: 'Nova Square', cursive;
     font font-weight: bold;
-    font-size: 100px;
+    font-size: 90px;
     }
 }
 
@@ -750,7 +768,7 @@ p {
     #comingsoon{
     font-family: 'Nova Square', cursive;
     font font-weight: bold;
-    font-size: 100px;
+    font-size: 90px;
     }
 }
 
